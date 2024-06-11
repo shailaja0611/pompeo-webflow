@@ -271,6 +271,7 @@ h2 {
     font-size: 32px;
 }
 
+
 .subscribe {
     margin-top: 20px;
 }
@@ -499,43 +500,286 @@ h2 {
     font-size: 20px;
     margin-top: 20px;
 }
-.shopcontainer{
+.online2{
     text-align: center;
+    padding: 5px;
+    font-size: 20px;
+}
+.container6{
+    
+    padding: 5px;
+}
+.bussines{
+    height: 300px;
+    width: 300px;
+}
 
+.product-container {
+    display: flex;
+    gap: 20px;
 }
-.modren {
-    height: 400px;
-    width: 400px;
-    margin-bottom :100px;
-}
-.modren1{
-    height: 400px;
-    width: 400px;
-    margin-bottom :100px;
-}
-.modren2{
-    height: 400px;
-    width: 400px;
-    margin-bottom :100px;
-}
-.modren3{
-    height: 400px;
-    width: 400px;
-    margin-bottom :100px;
-}
-.modren4{
-    height: 400px;
-    width: 400px;
-    margin-bottom :100px;
-}
-.modren5{
-    height: 400px;
-    width: 400px;
-    margin-bottom :100px;
 
+.product {
+    text-align: center;
 }
-.modren6{
-    height: 400px;
-    width: 400px;
-    margin-bottom :100px;
+
+.product img {
+    width: 330px;
+    height: 300px;
+    margin-left: 80px; 
+}
+
+.product1 img {
+    width: 330px;
+    height: 300px;
+    margin-left: 70px;
+}
+.product2 img {
+    width: 330px;
+    height: 300px;
+    margin-left: 70px;
+}
+.product4 img {
+    width: 330px;
+    height: 300px;
+    margin-left: 80px;
+}
+.product5 img {
+    width: 330px;
+    height: 300px;
+    margin-left: 70px;
+}
+.product6 img {
+    width: 330px;
+    height: 300px;
+    margin-left: 100px;
+}
+
+.product-container {
+    display: flex;
+    gap: 20px;
+}
+
+.product {
+    text-align: center;
+}
+
+.product img {
+    width: 330px;
+    height: 300px;
+    margin-left: 80px; 
+}
+
+.product1 img {
+    width: 330px;
+    height: 300px;
+    margin-left: 70px;
+}
+.product2 img {
+    width: 330px;
+    height: 300px;
+    margin-left: 70px;
+}
+.product4 img {
+    width: 330px;
+    height: 300px;
+    margin-left: 80px;
+}
+.product5 img {
+    width: 330px;
+    height: 300px;
+    margin-left: 70px;
+}
+.product6 img {
+    width: 330px;
+    height: 300px;
+    margin-left: 100px;
+}
+.container6{
+    text-align: center;
+    margin-left: 80px;
+}
+
+.latest-news-text {
+    font-size: 14px;
+    color: #d76472;
+    margin-top: 10px;
+    letter-spacing: 1px;
+}
+
+.headline {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.headline .ampersand {
+    color: #d7648a;
+    font-size: 32px;
+}
+
+.subscribe {
+    margin-top: 20px;
+}
+
+.subscribe input {
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #7a7575;
+    border-radius: 5px;
+    width: 250px;
+    margin-right: 10px;
+}
+
+.subscribe button {
+    padding: 10px ;
+    font-size: 14px;
+    color: white;
+    background-color: #e75a5a;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.images5{
+    background-image: url(back\ 5.jpeg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 300px;
+    width: 1360px;
+    font-size: 20px;
+    margin-left: 20px;
+    
+}
+.container7{
+    max-width: 400px;
+    padding: 10px;
+}
+
+h2 {
+    color: #080808;
+    font-size: 30px;
+
+    
+}
+
+h3 {
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+
+.contact-details {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.contact-item {
+   font-size: 10px;
+    
+}
+
+.contact-item h4 {
+    font-size: 20px;
+}
+
+.contact-item p {
+    font-size: 14px;
+     color:black;
+}
+.images6{
+    background-image: url(back\ 6.jpeg\ 1.jpeg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 300px;
+    width: 1360px;
+}
+.contact-form h2 {
+    margin-bottom: 15px;
+    font-size: 30px;
+    color: #333;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-group textarea {
+    height: 100px;
+    resize: none;
+}
+
+button {
+    background: #400dcc;
+    color: #fff;
+    padding: 10px ;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background:red
+}
+
+.container8 {
+    text-align: center;
+}
+
+.brand {
+    
+    font-size: 30px;
+    margin-right:700px ;
+}
+
+.creed {
+    font-size: 20px;
+    margin-right: 200px;
+    
+}
+
+.contact-info {
+    display: flex;
+    justify-content: center;
+    gap: 2px;
+}
+
+.contact-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.icon {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+}
+
+.label {
+    font-size: 10px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.detail {
+    font-size: 20px;
+    color: #1e0881;
+    text-align:center;
+    padding: 30px;
 }
